@@ -3,7 +3,10 @@
 	"description": "A project thats cool",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": [
-		"cool , funny, freecodecamp"
+		"funny",
+		"cool",
+		"freecodecamp",
+		"Dean"
 	],
 	"dependencies": {
 		"express": "^4.14.0"
